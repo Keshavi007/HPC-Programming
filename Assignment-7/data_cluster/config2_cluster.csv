@@ -1,0 +1,6 @@
+config,machine,threads,interpolation_time_s,normalization_time_s,mover_time_s,denormalization_time_s,algorithm_time_s,total_number_of_voids
+2,cluster,1,1.225048,0.001926,1.55664,0.000751,2.784364,16
+2,cluster,2,0.7557,0.001146,1.130813,0.00086,1.88852,16
+2,cluster,4,0.360216,0.000645,0.451575,0.000468,0.812905,16
+2,cluster,8,0.282025,0.000584,0.349278,0.000514,0.632402,16
+2,cluster,16,0.201201,0.000495,0.234896,0.004336,0.440928,16

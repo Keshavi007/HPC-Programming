@@ -1,0 +1,6 @@
+config,machine,threads,interpolation_time_s,normalization_time_s,mover_time_s,denormalization_time_s,algorithm_time_s,total_number_of_voids
+2,labpc,1,0.464238,0.000517,0.579745,0.000337,1.044837,16
+2,labpc,2,0.272352,0.000386,0.338353,0.000229,0.611321,16
+2,labpc,4,0.136624,0.00019,0.169608,0.000128,0.306551,16
+2,labpc,8,0.125142,0.00016,0.153583,0.000104,0.278988,16
+2,labpc,16,0.124071,0.002795,0.153256,0.00167,0.281791,16
